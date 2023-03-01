@@ -1,12 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.e1a36c10.css",
-    "main.js": "/static/js/main.43db3801.js",
+    "main.js": "/static/js/main.a1b5d3e8.js",
     "static/js/787.82ea95d8.chunk.js": "/static/js/787.82ea95d8.chunk.js",
-    "static/media/02.gif": "/static/media/02.34432a317bf896594824.gif",
     "static/media/smart video NB_1.gif": "/static/media/smart video NB_1.d131969d787c2129fb44.gif",
     "static/media/Power video NB_1.gif": "/static/media/Power video NB_1.19fdc22d1209e05cdc61.gif",
     "static/media/Master video NB_1.gif": "/static/media/Master video NB_1.7963fc0f9861c37f7d05.gif",
+    "static/media/01.gif": "/static/media/01.c1faaaae759cfc34806b.gif",
+    "static/media/02.gif": "/static/media/02.fa1f323ea9fee2c71397.gif",
+    "static/media/03.gif": "/static/media/03.44993f2edfce044f239d.gif",
     "static/media/Congratulations.gif": "/static/media/Congratulations.7a225cdeb1d2479eb016.gif",
     "static/media/ChrismasDiscount.mp4": "/static/media/ChrismasDiscount.47511248d9999ae7e49a.mp4",
     "static/media/JosefinSans-Regular.ttf": "/static/media/JosefinSans-Regular.0e82e3d2c82cf1e38a33.ttf",
@@ -24,11 +26,11 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "main.e1a36c10.css.map": "/static/css/main.e1a36c10.css.map",
-    "main.43db3801.js.map": "/static/js/main.43db3801.js.map",
+    "main.a1b5d3e8.js.map": "/static/js/main.a1b5d3e8.js.map",
     "787.82ea95d8.chunk.js.map": "/static/js/787.82ea95d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e1a36c10.css",
-    "static/js/main.43db3801.js"
+    "static/js/main.a1b5d3e8.js"
   ]
 }
